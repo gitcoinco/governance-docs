@@ -4,6 +4,8 @@
 
 - Non-technical questions on the [Quadratic Lands FAQ](https://gitcoin.co/quadraticlands/faq)
 
+- [Gitcoin Support](https://support.gitcoin.co) 
+
 - Bug reports can be filed directly on the [Gitcoin Website repository](https://github.com/gitcoinco/web/issues)
 
 <details>
