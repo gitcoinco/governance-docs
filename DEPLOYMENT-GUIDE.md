@@ -63,7 +63,7 @@ Transaction sent: 0x6dbf45e791e076ebf781fc8a6770ed8894bca98a36348ada1bbce3505a30
 
 The `mintingAllowedAfter_` parameter just needs to be a unix time stamp after the contract is deployed. For this local testnet example, because the Brownie console is a python shell, we can just grab current time python style and add a small buffer so the deploy doesn't fail.
 
-The fourth parameter, `{"from": accounts[0]}` is a Brownie specific requirement that forces us to explicitly state which address we're deploying the contract from. You can learn more about how accounts work in Brownie here.
+The fourth parameter, `{"from": accounts[0]}` is a Brownie specific requirement that forces us to explicitly state which address we're deploying the contract from. You can learn more about how accounts work in Brownie [here](https://eth-brownie.readthedocs.io/en/stable/core-accounts.html#).
 
 ### Deploying All Gitcoin Governance Contracts At Once With a Script
 
