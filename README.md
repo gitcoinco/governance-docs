@@ -37,6 +37,8 @@ The primary purpose of our [token distribution contract](https://github.com/gitc
 
 ---
 
+See [the Governance Reference](05-governance-reference.md) for more info on how GTC style governance works
+
 
 
 
